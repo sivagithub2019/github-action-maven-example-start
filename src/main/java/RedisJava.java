@@ -1,3 +1,5 @@
+import redis.clients.jedis.Jedis;
+
 public class RedisJava {
 
     Jedis jedis;
